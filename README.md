@@ -33,24 +33,24 @@ followed by the length of this cable, as a positive integer value.
 Each test case terminates with number 0. Then, other test cases may follow.
 
 Example input:
-3
-1 2 3
-1 3 4
-2 3 5
-0
-4
-1 2 20
-1 3 1
-2 3 2
-3 4 1
-0
-10
-1 2 1
-1 3 3
-1 4 4
-1 10 2
-4 5 6
-4 6 7
+3\n
+1 2 3\n
+1 3 4\n
+2 3 5\n
+0\n
+4\n
+1 2 20\n
+1 3 1\n
+2 3 2\n
+3 4 1\n
+0\n
+10\n
+1 2 1\n
+1 3 3\n
+1 4 4\n
+1 10 2\n
+4 5 6\n
+4 6 7\n
 4 7 8
 5 6 9
 7 8 10
