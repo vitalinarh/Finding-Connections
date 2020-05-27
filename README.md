@@ -32,39 +32,7 @@ internal id of the network equipment that is directly connected with the existin
 followed by the length of this cable, as a positive integer value.
 Each test case terminates with number 0. Then, other test cases may follow.
 
-Example input:
-3\n
-1 2 3\n
-1 3 4\n
-2 3 5\n
-0\n
-4\n
-1 2 20\n
-1 3 1\n
-2 3 2\n
-3 4 1\n
-0\n
-10\n
-1 2 1\n
-1 3 3\n
-1 4 4\n
-1 10 2\n
-4 5 6\n
-4 6 7\n
-4 7 8
-5 6 9
-7 8 10
-7 9 11
-7 10 3
-8 9 12
-0
-
 # Output
 For each test case, print the number of servers, the total amount of cable for the case of
 a fully connected network and the total amount of cable for a tree topology, as required
 by the IT department. If there is no server, report "no server".
-
-Example output:
-no server
-1 0 0
-3 17 9
